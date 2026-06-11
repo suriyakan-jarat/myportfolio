@@ -1,15 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=สวัสดีครับ!+👋+I'm+Suriyakan;วิทย์-คณิต+%7C+Future+Developer+🚀;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=suriyakan-jarat&style=flat-square&label=PROFILE+VIEWS&color=00F2FE" alt="views">
-  </p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Hello!+%F0%9F%91%8B+I'm+Suriyakan;Science-Math+%7C+Future+Developer+%F0%9F%9A%80;Welcome+to+my+GitHub+Profile!)
+
+![Profile Views](https://komarev.com/ghpvc/?username=suriyakan-jarat&style=flat-square&label=PROFILE+VIEWS&color=00F2FE)
+
 </div>
 
 <br/>
 
 ---
-
 ## ⚡ ABOUT ME
 
 | | |
