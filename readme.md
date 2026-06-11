@@ -90,33 +90,6 @@
 
 ---
 
-## 📊 GITHUB STATS
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suriyakan-jarat&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suriyakan-jarat&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suriyakan-jarat&theme=tokyonight&hide_border=true" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suriyakan-jarat&theme=tokyonight&hide_border=true" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suriyakan-jarat&theme=onedark&column=4&margin-w=10&margin-h=10&no-bg=true" width="100%"/>
-</div>
-
-<br/>
-
----
-
 ## 🔗 CONTACT ME
 
 <div align="center">
